@@ -1,0 +1,226 @@
+# depslib dependency file v1.0
+1611141953 source:c:\users\drogo\desktop\onedrive - alexandria university\term 3\programming i\final project\code\telephone book (final project)\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"menus.h"
+	<conio.h>
+	"func.h"
+	"data.h"
+
+1611141987 c:\users\drogo\desktop\onedrive - alexandria university\term 3\programming i\final project\code\telephone book (final project)\menus.h
+
+1611862964 source:c:\users\drogo\desktop\onedrive - alexandria university\term 3\programming i\final project\code\telephone book (final project)\menus.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"func.h"
+	"data.h"
+	<ctype.h>
+
+1611402110 c:\users\drogo\desktop\onedrive - alexandria university\term 3\programming i\final project\code\telephone book (final project)\func.h
+
+1611856428 source:c:\users\drogo\desktop\onedrive - alexandria university\term 3\programming i\final project\code\telephone book (final project)\func.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<conio.h>
+	"menus.h"
+	"data.h"
+	"func.h"
+
+1611401264 source:c:\users\drogo\desktop\onedrive - alexandria university\term 3\programming i\final project\code\telephone book (final project)\data.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	"menus.h"
+	"data.h"
+	"func.h"
+	<ctype.h>
+	<conio.h>
+
+1611245114 c:\users\drogo\desktop\onedrive - alexandria university\term 3\programming i\final project\code\telephone book (final project)\data.h
+
+1610987043 source:c:\users\mohamed farid\onedrive - alexandria university\desktop\telephone book (final project)hnksh (1)\telephone book (final project)\func.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<conio.h>
+	"menus.h"
+	"data.h"
+	"func.h"
+
+1611008477 c:\users\mohamed farid\onedrive - alexandria university\desktop\telephone book (final project)hnksh (1)\telephone book (final project)\menus.h
+
+1610927273 c:\users\mohamed farid\onedrive - alexandria university\desktop\telephone book (final project)hnksh (1)\telephone book (final project)\data.h
+
+1610987035 c:\users\mohamed farid\onedrive - alexandria university\desktop\telephone book (final project)hnksh (1)\telephone book (final project)\func.h
+
+1610987462 source:c:\users\mohamed farid\onedrive - alexandria university\desktop\telephone book (final project)hnksh (1)\telephone book (final project)\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"menus.h"
+	<conio.h>
+	"func.h"
+	"data.h"
+
+1611009284 source:c:\users\mohamed farid\onedrive - alexandria university\desktop\telephone book (final project)hnksh (1)\telephone book (final project)\menus.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"func.h"
+	"data.h"
+	<ctype.h>
+
+1611031076 source:c:\users\mohamed farid\onedrive - alexandria university\desktop\telephone book (final project)hnksh (1)\telephone book (final project)\data.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	"menus.h"
+	"data.h"
+	"func.h"
+	<ctype.h>
+	<conio.h>
+
+1611047056 source:c:\users\drogo\desktop\onedrive - alexandria university\term 3\programming i\final project\code\telephone book (final project)hnksh (1)\telephone book (final project)\data.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	"menus.h"
+	"data.h"
+	"func.h"
+	<ctype.h>
+	<conio.h>
+
+1611041101 c:\users\drogo\desktop\onedrive - alexandria university\term 3\programming i\final project\code\telephone book (final project)hnksh (1)\telephone book (final project)\menus.h
+
+1611040994 c:\users\drogo\desktop\onedrive - alexandria university\term 3\programming i\final project\code\telephone book (final project)hnksh (1)\telephone book (final project)\data.h
+
+1610987035 c:\users\drogo\desktop\onedrive - alexandria university\term 3\programming i\final project\code\telephone book (final project)hnksh (1)\telephone book (final project)\func.h
+
+1610987043 source:c:\users\drogo\desktop\onedrive - alexandria university\term 3\programming i\final project\code\telephone book (final project)hnksh (1)\telephone book (final project)\func.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<conio.h>
+	"menus.h"
+	"data.h"
+	"func.h"
+
+1611041113 source:c:\users\drogo\desktop\onedrive - alexandria university\term 3\programming i\final project\code\telephone book (final project)hnksh (1)\telephone book (final project)\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"menus.h"
+	<conio.h>
+	"func.h"
+	"data.h"
+
+1611046851 source:c:\users\drogo\desktop\onedrive - alexandria university\term 3\programming i\final project\code\telephone book (final project)hnksh (1)\telephone book (final project)\menus.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"func.h"
+	"data.h"
+	<ctype.h>
+
+1610987043 source:c:\users\mohamed farid\onedrive - alexandria university\desktop\telephone book (final project)\func.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<conio.h>
+	"menus.h"
+	"data.h"
+	"func.h"
+
+1611060032 c:\users\mohamed farid\onedrive - alexandria university\desktop\telephone book (final project)\menus.h
+
+1611060022 c:\users\mohamed farid\onedrive - alexandria university\desktop\telephone book (final project)\data.h
+
+1610987035 c:\users\mohamed farid\onedrive - alexandria university\desktop\telephone book (final project)\func.h
+
+1611041113 source:c:\users\mohamed farid\onedrive - alexandria university\desktop\telephone book (final project)\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"menus.h"
+	<conio.h>
+	"func.h"
+	"data.h"
+
+1611060022 source:c:\users\mohamed farid\onedrive - alexandria university\desktop\telephone book (final project)\menus.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"func.h"
+	"data.h"
+	<ctype.h>
+
+1611060022 source:c:\users\mohamed farid\onedrive - alexandria university\desktop\telephone book (final project)\data.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	"menus.h"
+	"data.h"
+	"func.h"
+	<ctype.h>
+	<conio.h>
+
+1611401264 source:c:\users\drogo\desktop\projects\c  projects\telephone book\code\telephone book (final project)\data.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	"menus.h"
+	"data.h"
+	"func.h"
+	<ctype.h>
+	<conio.h>
+
+1611141987 c:\users\drogo\desktop\projects\c  projects\telephone book\code\telephone book (final project)\menus.h
+
+1611245114 c:\users\drogo\desktop\projects\c  projects\telephone book\code\telephone book (final project)\data.h
+
+1611402110 c:\users\drogo\desktop\projects\c  projects\telephone book\code\telephone book (final project)\func.h
+
+1611856428 source:c:\users\drogo\desktop\projects\c  projects\telephone book\code\telephone book (final project)\func.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<conio.h>
+	"menus.h"
+	"data.h"
+	"func.h"
+
+1611141953 source:c:\users\drogo\desktop\projects\c  projects\telephone book\code\telephone book (final project)\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"menus.h"
+	<conio.h>
+	"func.h"
+	"data.h"
+
+1611862987 source:c:\users\drogo\desktop\projects\c  projects\telephone book\code\telephone book (final project)\menus.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"func.h"
+	"data.h"
+	<ctype.h>
+

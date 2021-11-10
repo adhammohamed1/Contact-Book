@@ -1,0 +1,7 @@
+Hugo, Victor, 13-5-1776, 23 Champs Elysees, 134355433221, victor.hugo.23@yahoo.com
+Acosta, Diego, 12-4-1932, 22 Magarita Avenue, 01291233421, acosta.the.beast@outlook.com
+Holmes, Sherlock, 17-4-1988, 221B Baker Street, 0988272923, thebestdetective@gmail.com
+Zackary, Mike, 12-3-1989, 5 Manhattan Street, 876726389, zackary@gmail.com
+Steven, Thomas, 10-6-1995, 26 Elhoreya Street, 01234567899, sthomas@gmail.com
+Yanni, Federico, 31-8-1997, 26 De Broglie Street, 982367823, itsfedericoxx@gmail.com
+Abu Youssef, Yara, 22-2-2001, Kafr Abdo, 0100098826752, yaramorsyabyu@gmail.com
